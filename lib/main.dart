@@ -89,6 +89,7 @@ class _CookieClickerHomePageState extends State<CookieClickerHomePage> {
           children: <Widget>[
             Text(
               _cookieText,
+              style: const TextStyle(fontSize: 25),
             ),
             Text(
               'Score: $_counter',
