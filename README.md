@@ -1,16 +1,11 @@
-# clicker_game
+# 🍪 Cookie clicker
 
-A new Flutter project.
+A simple mobile game made with Flutter to demonstrate basic animations and state management.
 
-## Getting Started
+## Gameplay
+Just click the cookie, until you collect 200 points. Then, tap again to reset! You can also reset on long-press.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Compilation and running
+First, install Flutter (e.g. with [this tutorial](https://docs.flutter.dev/get-started/install)). 
+If you already have it, you can run the app on your device of choice (you can follow 
+[this simple guide](https://appmaking.com/run-flutter-apps-on-android-device/) to run it on your phone).
